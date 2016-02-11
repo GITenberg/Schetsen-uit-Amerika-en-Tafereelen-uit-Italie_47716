@@ -1,0 +1,28 @@
+_repo: Schetsen-uit-Amerika-en-Tafereelen-uit-Italie_47716
+contributor:
+  illustrator:
+    agent_name: Dalziel, Edward
+    birthdate: 1817
+    deathdate: 1905
+    gutenberg_agent_id: '32392'
+    url: http://www.gutenberg.org/2009/agents/32392
+creator:
+  author:
+    agent_name: Dickens, Charles
+    alias: Boz
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+description: ''
+gutenberg_issued: '2014-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47716'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Schetsen uit Amerika en Tafereelen uit Italië
+url: http://www.gutenberg.org/ebooks/47716
